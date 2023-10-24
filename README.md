@@ -12,7 +12,7 @@ Currently studying programming (Front-end) in the dream of working as a develope
 
 <div>
 <a href="https://github.com/vctrhugoop">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vctrhugoop&layout=compact&langs_count=7&theme=aura"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=vctrhugoop&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vctrhugoop&theme=aura"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=vctrhugoop&theme=aura&show_icons=truee"/>
 </div>
 
