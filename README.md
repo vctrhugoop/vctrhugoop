@@ -1,9 +1,7 @@
 <div align="center">
-<h1 >
-  👋 Heey!
-</h1>
 
-I'm **Victor Oliveira**, 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61FFCA&center=true&random=false&width=435&lines=Heeey!+I'm+Victor+;Welcome+to+my+profile!)](https://git.io/typing-svg)
+
 
 Currently studying programming (Front-end) in the dream of working as a developer!
 <br>
