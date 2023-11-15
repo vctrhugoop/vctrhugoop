@@ -1,20 +1,24 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61FFCA&center=true&random=false&width=435&lines=Heeey!+I'm+Victor+;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61FFCA&center=true&random=false&width=535&lines=Heeey!+I'm+Victor+;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 
 Currently studying programming (Front-end) in the dream of working as a developer!
 <br>
-### ⚒&nbsp;&nbsp;&nbsp;My Development Toolkit
-<br><img alt="windows" title="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="20">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="vscode" title="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="20">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="vercel" title="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="20">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Git" title="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="20">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="html" title="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="20">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="css3" title="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="sass" title="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="20">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="javascript" title="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" height="20">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="vite" title="vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" height="20"><br>
+### ⚒&nbsp;&nbsp;&nbsp;
 
-### ⚙️ &nbsp;GitHub Stats
-
+<p align="center">
+  <h2>⚒ My Development Toolkit</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,git,vite,vercel,vscode,figma,github" />
+  </a>
+</p>
 
 <div>
-<a href="https://github.com/vctrhugoop">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vctrhugoop&theme=aura"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=vctrhugoop&theme=aura&show_icons=truee"/>
+  <h2>⚙️ GitHub Stats</h2>
+  <a href="https://github.com/vctrhugoop">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vctrhugoop&theme=aura"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=vctrhugoop&theme=aura&show_icons=truee"/>
 </div>
 
 </div>
