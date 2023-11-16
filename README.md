@@ -10,7 +10,7 @@ Currently studying programming (Front-end) in the dream of working as a develope
 <p align="center">
   <h2>⚒ My Development Toolkit</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,git,vite,vercel,vscode,figma,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,git,linux,vite,vercel,vscode,github" />
   </a>
 </p>
 
