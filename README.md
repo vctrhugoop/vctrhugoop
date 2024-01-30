@@ -15,7 +15,7 @@
   </a>
   <h3>Toolkit</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vercel,vscode,figma,powershell,md,git,github" />
+    <img src="https://skillicons.dev/icons?i=vercel,vscode,figma,powershell,md,git,github,docker" />
   </a>
 </p>
 
